@@ -2,16 +2,17 @@
 layout: project
 type: project
 image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+title: All About Beer
+permalink: projects/beer
 # All dates must be YYYY-MM-DD format!
 date: 2015-12-15
 labels:
-  - Javascript
+  - PowerBI
   - Meteor
   - MongoDB
   - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+summary: Detailed information for over 23 thousand beers.
+url: https://app.powerbi.com/view?r=eyJrIjoiZGNhNDU0YjUtMDk4Ny00N2Y4LTg3NTMtZDdhYWQzYjYyNjE3IiwidCI6ImU0YmQ2OWZmLWU2ZjctNGMyZS1iMjQ3LTQxYjU0YmEyNDkwZSIsImMiOjh9
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
