@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/beer.jpg
 title: All About Beer
 permalink: projects/beer
 # All dates must be YYYY-MM-DD format!
