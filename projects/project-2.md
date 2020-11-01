@@ -12,7 +12,7 @@ labels:
   - MongoDB
   - GitHub
 summary: Detailed information for over 23 thousand beers.
-url: https://app.powerbi.com/view?r=eyJrIjoiZGNhNDU0YjUtMDk4Ny00N2Y4LTg3NTMtZDdhYWQzYjYyNjE3IiwidCI6ImU0YmQ2OWZmLWU2ZjctNGMyZS1iMjQ3LTQxYjU0YmEyNDkwZSIsImMiOjh9
+projecturl: https://app.powerbi.com/view?r=eyJrIjoiZGNhNDU0YjUtMDk4Ny00N2Y4LTg3NTMtZDdhYWQzYjYyNjE3IiwidCI6ImU0YmQ2OWZmLWU2ZjctNGMyZS1iMjQ3LTQxYjU0YmEyNDkwZSIsImMiOjh9
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
