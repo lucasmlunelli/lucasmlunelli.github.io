@@ -11,6 +11,7 @@ labels:
   - Arduino
   - C++
 summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+projecturl: https://public.tableau.com/profile/lucaslunelli#!/vizhome/KingJames/PresentView
 ---
 
 <div class="ui small rounded images">
