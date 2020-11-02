@@ -1,57 +1,45 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
+    "name": "Lucas Lunelli",
+    "label": "Data Enthusiast",
+    "picture": "https://techfolios.github.io/template/images/lucas.jpg",
+    "email": "lucasmlunelli@gmail.com",
     "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "website": "https://lucasmlunelli.github.io",
+    "summary": "A data-driven engineer eager to combine analytics with strategy to guide important business questions in an actionable way.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "postalCode": "",
+      "city": "Lisbon",
+      "countryCode": "PT",
+      "region": "Portugal"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "lucasmlunelli",
+        "url": "http://github.com/lucasmlunelli"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "lucaslunelli",
+        "url": "http://linkedin.com/in/lucaslunelli"
       },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
-      }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "data visualization",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "analytics",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "business strategy",
       "keywords": [
       ]
     }
