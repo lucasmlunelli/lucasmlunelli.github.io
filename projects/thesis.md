@@ -13,9 +13,9 @@ labels:
 summary: Machine learning model to predict NBA games winners and the creation of betting strategies to profit from the model's results.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/thesis.jpg">
+Thesis presented as the partial requirement for obtaining a Master's degree in Information Management, specialization in Knowledge Management and Business Intelligence at Nova IMS.
 
-Thesis oresented as the partial requirement for obtaining a Master's degree in Information Management, specialization in Knowledge Management and Business Intelligence at Nova IMS.
+<hr>
 
 NBA is one of the largest sports leagues in the world and every year it moves billions of dollars in
 sponsorship and betting. In addition to the money involved, many metrics about players and teams
@@ -30,8 +30,11 @@ as decision trees, logistic regression, neural networks and ensembles. After fir
 important features are selected and incorporated into the model, always aiming to increase its
 accuracy. Using model´s results is possible now to create betting strategies. Finally, the results of the
 model and betting strategies are evaluated through several metrics and comparisons with the results
-found in the literature
+found in the literature.
 
-Thesis (in Portuguese): <a href="https://run.unl.pt/bitstream/10362/93006/1/TGI0277.pdf"></i>NOVA IMS Repository</a>
+<hr>
+
+Thesis (in Portuguese): <a href="https://run.unl.pt/bitstream/10362/93006/1/TGI0277.pdf">NOVA IMS Repository</a>
+
 Data and code: <a href="https://github.com/lucasmlunelli/nba_predictions"><i class="large github icon "></i>lucasmlunelli/nba_predictions</a>
 
