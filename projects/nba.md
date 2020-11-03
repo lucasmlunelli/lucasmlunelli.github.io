@@ -8,8 +8,9 @@ permalink: projects/nba
 date: 2020-05-28
 labels:
   - Tableau
+  - Python
 summary: Interactive dashboard showing LeBron James career evolution and all-time stats.
-projecturl: https://public.tableau.com/views/KingJames/PresentView?:embed=y&:showVizHome=no&:showTabs=y#1
+projecturl: https://public.tableau.com/views/KingJames/PresentView?:embed=y&:showVizHome=no&:showTabs=y&:device=desktop
 ---
 
 Script, data and dashboard available at: <a href="https://github.com/lucasmlunelli/nba_king_james"><i class="large github icon"></i>lucasmlunelli/nba_king_james</a>
